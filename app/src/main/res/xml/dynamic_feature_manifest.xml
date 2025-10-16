@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.roshni.games">
+
+    <!-- Game modules will be added here dynamically -->
+    <!-- Example entries:
+
+    <dist:module
+        dist:instant="false"
+        dist:title="@string/title_puzzle_game_001">
+        <dist:delivery>
+            <dist:install-time />
+        </dist:delivery>
+        <dist:fusing dist:include="true" />
+    </dist:module>
+
+    <dist:module
+        dist:instant="false"
+        dist:title="@string/title_puzzle_game_002">
+        <dist:delivery>
+            <dist:on-demand />
+        </dist:delivery>
+        <dist:fusing dist:include="true" />
+    </dist:module>
+
+    -->
+
+</manifest>
