@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951710475077",
+    "firebase_url": "https://roshni-games-default-rtdb.firebaseio.com",
+    "project_id": "roshni-games",
+    "storage_bucket": "roshni-games.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951710475077:android:49bc37253ac861880ad42c",
+        "android_client_info": {
+          "package_name": "com.roshni.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951710475077-vt062aec6gn32eq368ilher833q4bllh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg_oMPZDOJd9z0Fm1w_fmwf89u6-mRKf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951710475077-vt062aec6gn32eq368ilher833q4bllh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
